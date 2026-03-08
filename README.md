@@ -46,5 +46,5 @@ Found: 783 | Page: 1/783 | Per page: 10
 ```
 
 ### Source
-solvit.space/projects/vacancies_statistics
+https://solvit.space/projects/vacancies_statistics
 
